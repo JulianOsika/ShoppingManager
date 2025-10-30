@@ -1,0 +1,6 @@
+@ShoppingManager_HostAddress = http://localhost:5239
+
+GET {{ShoppingManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
