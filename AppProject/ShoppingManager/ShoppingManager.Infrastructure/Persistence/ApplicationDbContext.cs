@@ -9,7 +9,7 @@ using ShoppingManager.Domain.Entities;
 
 namespace ShoppingManager.Infrastructure.Persistence
 {
-    internal class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
@@ -25,20 +25,28 @@ namespace ShoppingManager.Infrastructure.Persistence
         {
             base.OnModelCreating(modelBuilder);
 
-            // List Access ma klucz złożony (UserId + ShoppingListId)
             modelBuilder.Entity<ListAccess>()
                 .HasKey(la => new { la.ShoppingListId, la.UserId });
 
             modelBuilder.Entity<ListAccess>()
-                .HasOne<ShoppingList>()
+                .HasOne(la => la.ShoppingList)
                 .WithMany(sl => sl.ListAccesses)
                 .HasForeignKey(la => la.ShoppingListId);
 
-            // NIE OGARNIAM TEGO
             modelBuilder.Entity<ShoppingList>()
                 .HasMany(sl => sl.ListElements)
                 .WithOne(le => le.ShoppingList)
                 .HasForeignKey(le => le.ShoppingListId);
+
+            modelBuilder.Entity<ListElement>()
+                .HasOne(le => le.Product)
+                .WithMany(p => p.ListElements)
+                .HasForeignKey(le => le.ProductId);
+
+            modelBuilder.Entity<Product>()
+                .HasOne(p => p.Category)
+                .WithMany(pc => pc.Products)
+                .HasForeignKey(p => p.CategoryId);
 
         }
     }

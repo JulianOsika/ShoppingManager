@@ -1,0 +1,12 @@
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\bin\Debug\net8.0\ShoppingManager.Domain.deps.json
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\bin\Debug\net8.0\ShoppingManager.Domain.dll
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\bin\Debug\net8.0\ShoppingManager.Domain.pdb
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\obj\Debug\net8.0\ShoppingManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\obj\Debug\net8.0\ShoppingManager.Domain.AssemblyInfoInputs.cache
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\obj\Debug\net8.0\ShoppingManager.Domain.AssemblyInfo.cs
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\obj\Debug\net8.0\ShoppingManager.Domain.csproj.CoreCompileInputs.cache
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\obj\Debug\net8.0\ShoppingManager.Domain.sourcelink.json
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\obj\Debug\net8.0\ShoppingManager.Domain.dll
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\obj\Debug\net8.0\refint\ShoppingManager.Domain.dll
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\obj\Debug\net8.0\ShoppingManager.Domain.pdb
+C:\MyProjects\ShoppingManager\AppProject\ShoppingManager\ShoppingManager.Domain\obj\Debug\net8.0\ref\ShoppingManager.Domain.dll

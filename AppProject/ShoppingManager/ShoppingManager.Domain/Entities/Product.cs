@@ -16,5 +16,8 @@ namespace ShoppingManager.Domain.Entities
 
         public int? CategoryId { get; set; }
         public virtual ProductCategory? Category { get; set; }
+
+        public int? ListElementId { get; set; }
+        public virtual ICollection<ListElement>? ListElements { get; set; }
     }
 }
