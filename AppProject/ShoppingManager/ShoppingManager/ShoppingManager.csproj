@@ -15,10 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ShoppingManager.Application\ShoppingManager.Application.csproj" />
     <ProjectReference Include="..\ShoppingManager.Infrastructure\ShoppingManager.Infrastructure.csproj" />
   </ItemGroup>

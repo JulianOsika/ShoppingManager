@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ShoppingManager.Controllers.ProductCategoriesController",
+    "Method": "GetProductCategories",
+    "RelativePath": "api/ProductCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShoppingManager.Controllers.ProductCategoriesController",
+    "Method": "CreateProductCategory",
+    "RelativePath": "api/ProductCategories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ShoppingManager.Dtos.CreateCategoryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

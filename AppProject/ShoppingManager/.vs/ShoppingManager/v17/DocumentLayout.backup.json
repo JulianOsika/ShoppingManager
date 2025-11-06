@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A37989E-679A-4A7F-87E9-2EFFAD19F776}|ShoppingManager.Infrastructure\\ShoppingManager.Infrastructure.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A37989E-679A-4A7F-87E9-2EFFAD19F776}|ShoppingManager.Infrastructure\\ShoppingManager.Infrastructure.csproj|solutionrelative:shoppingmanager.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC2F27C-D3A0-4604-B97E-3BA9881CF50D}|ShoppingManager\\ShoppingManager.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC2F27C-D3A0-4604-B97E-3BA9881CF50D}|ShoppingManager\\ShoppingManager.csproj|solutionrelative:shoppingmanager\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC2F27C-D3A0-4604-B97E-3BA9881CF50D}|ShoppingManager\\ShoppingManager.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EFC2F27C-D3A0-4604-B97E-3BA9881CF50D}|ShoppingManager\\ShoppingManager.csproj|solutionrelative:shoppingmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFC2F27C-D3A0-4604-B97E-3BA9881CF50D}|ShoppingManager\\ShoppingManager.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC2F27C-D3A0-4604-B97E-3BA9881CF50D}|ShoppingManager\\ShoppingManager.csproj|solutionrelative:shoppingmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80CA517-19F6-4777-9F6C-9C08B01EC1E0}|ShoppingManager.Domain\\ShoppingManager.Domain.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80CA517-19F6-4777-9F6C-9C08B01EC1E0}|ShoppingManager.Domain\\ShoppingManager.Domain.csproj|solutionrelative:shoppingmanager.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80CA517-19F6-4777-9F6C-9C08B01EC1E0}|ShoppingManager.Domain\\ShoppingManager.Domain.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager.domain\\entities\\listaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80CA517-19F6-4777-9F6C-9C08B01EC1E0}|ShoppingManager.Domain\\ShoppingManager.Domain.csproj|solutionrelative:shoppingmanager.domain\\entities\\listaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80CA517-19F6-4777-9F6C-9C08B01EC1E0}|ShoppingManager.Domain\\ShoppingManager.Domain.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager.domain\\entities\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80CA517-19F6-4777-9F6C-9C08B01EC1E0}|ShoppingManager.Domain\\ShoppingManager.Domain.csproj|solutionrelative:shoppingmanager.domain\\entities\\shoppinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC2F27C-D3A0-4604-B97E-3BA9881CF50D}|ShoppingManager\\ShoppingManager.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager\\dtos\\createcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC2F27C-D3A0-4604-B97E-3BA9881CF50D}|ShoppingManager\\ShoppingManager.csproj|solutionrelative:shoppingmanager\\dtos\\createcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F80CA517-19F6-4777-9F6C-9C08B01EC1E0}|ShoppingManager.Domain\\ShoppingManager.Domain.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager.domain\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80CA517-19F6-4777-9F6C-9C08B01EC1E0}|ShoppingManager.Domain\\ShoppingManager.Domain.csproj|solutionrelative:shoppingmanager.domain\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80CA517-19F6-4777-9F6C-9C08B01EC1E0}|ShoppingManager.Domain\\ShoppingManager.Domain.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager.domain\\entities\\listelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80CA517-19F6-4777-9F6C-9C08B01EC1E0}|ShoppingManager.Domain\\ShoppingManager.Domain.csproj|solutionrelative:shoppingmanager.domain\\entities\\listelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC2F27C-D3A0-4604-B97E-3BA9881CF50D}|ShoppingManager\\ShoppingManager.csproj|c:\\myprojects\\shoppingmanager\\appproject\\shoppingmanager\\shoppingmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC2F27C-D3A0-4604-B97E-3BA9881CF50D}|ShoppingManager\\ShoppingManager.csproj|solutionrelative:shoppingmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager\\appsettings.json",
-              "RelativeDocumentMoniker": "ShoppingManager\\appsettings.json",
-              "ToolTip": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager\\appsettings.json",
-              "RelativeToolTip": "ShoppingManager\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-31T17:46:32.375Z",
+              "Title": "CreateCategoryRequest.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager\\Dtos\\CreateCategoryRequest.cs",
+              "RelativeDocumentMoniker": "ShoppingManager\\Dtos\\CreateCategoryRequest.cs",
+              "ToolTip": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager\\Dtos\\CreateCategoryRequest.cs",
+              "RelativeToolTip": "ShoppingManager\\Dtos\\CreateCategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:39:42.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ProductCategoriesController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager\\Controllers\\ProductCategoriesController.cs",
+              "RelativeDocumentMoniker": "ShoppingManager\\Controllers\\ProductCategoriesController.cs",
+              "ToolTip": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager\\Controllers\\ProductCategoriesController.cs",
+              "RelativeToolTip": "ShoppingManager\\Controllers\\ProductCategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:16:52.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager\\Program.cs",
               "RelativeDocumentMoniker": "ShoppingManager\\Program.cs",
@@ -79,85 +76,19 @@
               "RelativeToolTip": "ShoppingManager\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:44:32.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T17:44:32.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ShoppingManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ShoppingManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:24:23.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ListAccess.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Domain\\Entities\\ListAccess.cs",
-              "RelativeDocumentMoniker": "ShoppingManager.Domain\\Entities\\ListAccess.cs",
-              "ToolTip": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Domain\\Entities\\ListAccess.cs",
-              "RelativeToolTip": "ShoppingManager.Domain\\Entities\\ListAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:11:24.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShoppingList.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Domain\\Entities\\ShoppingList.cs",
-              "RelativeDocumentMoniker": "ShoppingManager.Domain\\Entities\\ShoppingList.cs",
-              "ToolTip": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Domain\\Entities\\ShoppingList.cs",
-              "RelativeToolTip": "ShoppingManager.Domain\\Entities\\ShoppingList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:09:44.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ListElement.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Domain\\Entities\\ListElement.cs",
-              "RelativeDocumentMoniker": "ShoppingManager.Domain\\Entities\\ListElement.cs",
-              "ToolTip": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Domain\\Entities\\ListElement.cs",
-              "RelativeToolTip": "ShoppingManager.Domain\\Entities\\ListElement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:08:48.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ProductCategory.cs",
               "DocumentMoniker": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Domain\\Entities\\ProductCategory.cs",
               "RelativeDocumentMoniker": "ShoppingManager.Domain\\Entities\\ProductCategory.cs",
               "ToolTip": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Domain\\Entities\\ProductCategory.cs",
               "RelativeToolTip": "ShoppingManager.Domain\\Entities\\ProductCategory.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAABFwA0AAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T18:08:13.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ShoppingManager.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\MyProjects\\ShoppingManager\\AppProject\\ShoppingManager\\ShoppingManager.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "ShoppingManager.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:06:09.559Z",
               "EditorCaption": ""
             }
           ]
