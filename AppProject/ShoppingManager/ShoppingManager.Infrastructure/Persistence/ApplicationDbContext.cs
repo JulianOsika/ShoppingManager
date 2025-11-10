@@ -17,7 +17,7 @@ namespace ShoppingManager.Infrastructure.Persistence
 
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductCategory> ProductCategories { get; set; }
-        public DbSet<ShoppingList> ShoppingList { get; set; }
+        public DbSet<ShoppingList> ShoppingLists { get; set; }
         public DbSet<ListElement> ListElements { get; set; }
         public DbSet<ListAccess> ListAccesses { get; set; }
 
